@@ -1,4 +1,4 @@
-[![MasterHead]<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Nik8110/Nik8110/main/header.png">](https://github.com/Nik8110)
+[![MasterHead]<img align="center" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/Nik8110/Nik8110/main/header.png">](https://github.com/Nik8110)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)
 
