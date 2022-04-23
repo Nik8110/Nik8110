@@ -1,3 +1,4 @@
+[![MasterHead](your image link)](your GitHub link)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)
 
 ### Hi there 👋, my name is Nikhil
