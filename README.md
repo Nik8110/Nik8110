@@ -28,5 +28,4 @@ Skills: FLUTTER / DART / ANDROID / IOS / HYBRID - DEVELOPING
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nik8110&layout=compact)
 
-
-![GIT SKYLINES](https://skyline.github.com/nik8110/2021)
+![THANK YOU]
