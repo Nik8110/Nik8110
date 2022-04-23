@@ -36,4 +36,5 @@ Skills: FLUTTER / DART / ANDROID / IOS / HYBRID - DEVELOPING
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nik8110&layout=compact)
 
 [![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://https://www.buymeacoffee.com/)
+
 THANK YOU
