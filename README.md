@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nikhil
 #### I am Full-time flutter freelancer
-![I am Full-time flutter freelancer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Full-time flutter freelancer](https://github-readme-stats.vercel.app/api?username=Nik8110&show_icons=true&theme=radical)
 
 i am professional flutter freelancer.who work in this field from last 2 to 2.5 years and having good knowledge of 
 STATE MANAGEMENTS
