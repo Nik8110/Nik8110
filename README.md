@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="600" src="https://raw.githubusercontent.com/Nik8110/Nik8110/main/gitname.jpg">
+<img align="center" alt="Coding" width="1080" src="https://raw.githubusercontent.com/Nik8110/Nik8110/main/gitname.jpg">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)
 
