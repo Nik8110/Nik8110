@@ -1,5 +1,6 @@
-[![MasterHead](your image link)](your GitHub link)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)
+
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
 ### Hi there 👋, my name is Nikhil
 #### I am Full-time flutter freelancer
