@@ -18,6 +18,7 @@ also working with different kind of platforms like
 firebase, open CV, tensor flow, agora, one signal, razor pay, stripe, deep AR. and etc...
 
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
+
 Skills: FLUTTER / DART / ANDROID / IOS / HYBRID - DEVELOPING
 
 - 🔭 I’m currently working on flutter client base project 
