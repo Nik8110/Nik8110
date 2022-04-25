@@ -3,7 +3,7 @@
  
 .<h6 align="center">![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)</h6>
  
- 
+ <h3 align="center">![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</h3>
  
 <header>
  
