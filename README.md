@@ -2,9 +2,9 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)
-
 
 
 [![Nik's github trophy](https://github-profile-trophy.vercel.app/?username=Nik8110&row=1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -22,7 +22,7 @@ ADDING VARIOUS ENV. IN PROJECTS
 also working with different kind of platforms like 
 firebase, open CV, tensor flow, agora, one signal, razor pay, stripe, deep AR. and etc...
 
-[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
+
 
 Skills: FLUTTER / DART / ANDROID / IOS / HYBRID - DEVELOPING
 
