@@ -8,9 +8,10 @@
 <header>
  
 <h1 align="center"> technology stack</h1>
-<h6 align="center">![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)![GitHub](https://badgen.net/badge/icon/github?icon=github&label)![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)</h6> 
 </header>
 
+
+-<h6 align="center">![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)![GitHub](https://badgen.net/badge/icon/github?icon=github&label)![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)</h6> 
 
 
 <!-- <h6 align="center">![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)</h6> -->
