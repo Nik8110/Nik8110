@@ -1,12 +1,11 @@
 <img align="center" alt="Coding" width="1080" src="https://raw.githubusercontent.com/Nik8110/Nik8110/main/gitname.jpg">
+ [<h6 align="center">![Maintenance ](https://img.shields.io/badge/Maintained%3F-yes-green.svg)</h6>](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+ 
 <header>
   <h1 align="center"> technology stack</h1>
 </header>
 
-
- [<h6 align="center">![Maintenance ](https://img.shields.io/badge/Maintained%3F-yes-green.svg)</h6>](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-
-[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
+[<h6 align="center">![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)</h6>](http://git-scm.com/) [<h6 align="center">![GitHub](https://badgen.net/badge/icon/github?icon=github&label)</h6>](https://github.com) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)
 
 
