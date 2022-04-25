@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1080" src="https://raw.githubusercontent.com/Nik8110/Nik8110/main/gitname.jpg">
  
  
-<header><h6 align="center">![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)</h6></header>
+.<h6 align="center">![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)</h6>
  
  
  
