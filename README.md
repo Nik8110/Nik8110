@@ -1,14 +1,16 @@
 <img align="center" alt="Coding" width="1080" src="https://raw.githubusercontent.com/Nik8110/Nik8110/main/gitname.jpg">
-
-<h6 align="center">![Maintenance ](https://img.shields.io/badge/Maintained%3F-yes-green.svg)![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)</h6>
  
 <header>
-  <h1 align="center"> technology stack</h1>
+ <h6 align="center">![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)</h6>
+ 
+ <h1 align="center"> technology stack</h1>
+ 
+ <h6 align="center">![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)![GitHub](https://badgen.net/badge/icon/github?icon=github&label)![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)</h6> 
 </header>
 
-<h6 align="center">![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)![GitHub](https://badgen.net/badge/icon/github?icon=github&label)![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)</h6> 
 
-<h6 align="center">![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)</h6>
+
+<!-- <h6 align="center">![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)</h6> -->
 
 [![Nik's github trophy](https://github-profile-trophy.vercel.app/?username=Nik8110&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
