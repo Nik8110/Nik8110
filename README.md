@@ -14,8 +14,8 @@
 .<h6 align="center">![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)![GitHub](https://badgen.net/badge/icon/github?icon=github&label)![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik8110)](https://git.io/streak-stats)</h6>.
 
 
-[![Nik's github trophy](https://github-profile-trophy.vercel.app/?username=Nik8110&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- [![Nik's github trophy](https://github-profile-trophy.vercel.app/?username=Nik8110&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
 ### Hi there 👋, my name is Nikhil
 #### I am Full-time flutter freelancer
 ![I am Full-time flutter freelancer](https://github-readme-stats.vercel.app/api?username=Nik8110&show_icons=true&theme=radical)
