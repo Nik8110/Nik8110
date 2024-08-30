@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-I am a professional Flutter developer with over 2 years of experience, specializing in:
+I am a professional Flutter developer with over 5 years of experience, specializing in:
 
 - **📱 Mobile App Development:** Creating stunning and responsive cross-platform apps.
 - **⚙️ State Management:** Proficient in Riverpod, Bloc, Provider, GetX, and Redux.
